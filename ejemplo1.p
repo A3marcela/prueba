@@ -24,7 +24,7 @@ DEFINE VARIABLE mensaje AS CHARACTER.
 
 /* ***************************  Main Block  *************************** */
 
-mensaje = "abc".
+mensaje = "abcxyz".
 uno = 1.
 uno = uno + 1.
 uno = uno + 2.
