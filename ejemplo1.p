@@ -31,7 +31,6 @@ uno = uno + 2.
 uno = uno + 3.
 MESSAGE mensaje VIEW-AS ALERT-BOX .
 
-/* ********************  Preprocessor Definitions  ******************** */
+MESSAGE uno VIEW-AS ALERT-BOX .
 
 
-/* ***************************  Main Block  *************************** */
