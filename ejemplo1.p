@@ -29,7 +29,7 @@ uno = 1.
 uno = uno + 1.
 uno = uno + 2.
 uno = uno + 3.
-MESSAGE mensaje VIEW-AS ALERT-BOX INFO.
+MESSAGE mensaje VIEW-AS ALERT-BOX .
 
 /* ********************  Preprocessor Definitions  ******************** */
 
