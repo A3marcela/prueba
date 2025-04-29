@@ -24,11 +24,12 @@ DEFINE VARIABLE mensaje AS CHARACTER.
 
 /* ***************************  Main Block  *************************** */
 
-mensaje = "abcxyz".
+mensaje = "abcxyz123".
 uno = 1.
 uno = uno + 1.
 uno = uno + 2.
-MESSAGE mensaje.
+uno = uno + 3.
+MESSAGE mensaje VIEW-AS ALERT-BOX INFO.
 
 /* ********************  Preprocessor Definitions  ******************** */
 
